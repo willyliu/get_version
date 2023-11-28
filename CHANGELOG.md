@@ -1,3 +1,8 @@
+## 0.3.0
+
+* Removes the usage of deprecated `kotlin-android-extensions` plugin.
+* Upgrades to embedding plugin version 2.
+
 ## 0.2.2
 
 * Prepare for 1.0.0 version of sensors and package_info. ([dart_lsc](http://github.com/amirh/dart_lsc))
